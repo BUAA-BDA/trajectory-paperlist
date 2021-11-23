@@ -20,6 +20,14 @@
 
 ## Research Papers
 
+### Simplification
+
+### Index
+
+### Similarity Search
+
+### Privacy
+
 ## Experimental Papers
 
 ## Demo Papers
