@@ -14,7 +14,7 @@
 ## Survey Papers
 
 1. **A Survey on Trajectory Data Management, Analytics, and Learning**
-*Sheng Wang, Zhifeng Bao, J.Shane Culpepper, Gao Cong.* ACM Computing Surveys, 221. [paper](https://arxiv.org/pdf/2003.11547.pdf)
+*Sheng Wang, Zhifeng Bao, J.Shane Culpepper, Gao Cong.* ACM Computing Surveys, 2021. [paper](https://arxiv.org/pdf/2003.11547.pdf)
 
 ## Tutorials and Keynotes
 
